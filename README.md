@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Peyman Alavi.
-- 👀 I’m interested in Machine Learning and Deep Learning.
+- 👋 Hi, I am Peyman Alavi.
+- 👀 I’m interested in `Machine Learning` and `Deep Learning`.
 - 📫 How to reach me? Feel free to send an email to peymanalavy@gmail.com
 
 <!---
